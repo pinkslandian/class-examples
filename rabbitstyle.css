@@ -1,0 +1,42 @@
+body{
+    background-color:#f7f2ca;
+}
+
+#div1 {
+    background-color:yellow;
+    color:green;
+}
+
+#div2 {
+    color:red;
+}
+
+#div3 {
+    background-color:yellow;
+    color:blue;
+}
+
+#div4 {
+    text-align:center;
+    color:red;
+    font-family:courier;
+    font-weight:bold;
+    font-size:15px;
+    
+}
+
+#div5 {
+    color:skyblue;
+}
+
+#div6 {
+    color:purple;
+}
+
+#div7 {
+    color:red;
+}
+
+a {
+    color:blue;
+}
